@@ -6,7 +6,7 @@
 
 **[下载 PNG](MOSS.png)** · [Blender 模型](assets/model/MOSS.blend) · [Codex Skill](.agents/skills/moss-animation-design/SKILL.md)
 
-## 三种使用方式
+## 使用方式
 
 ### 1. PNG 导入（推荐）
 
@@ -28,9 +28,9 @@ $moss-animation-design
 
 [渲染命令与模型说明](.agents/skills/moss-animation-design/references/design.md#渲染与合成) · [客户端兼容与触发说明](.agents/skills/moss-animation-design/references/runtime.md)
 
-### 3. 分享链接（领养待验证）
+### 分享状态（待验证）
 
-[MOSS 分享页](https://chatgpt.com/s/sharepet_6aca8ec905a881919a85c47f128383f6)由 Pets 工具生成。2026-10-12 复查时未登录预览可见，但已收到登录态页面提示“无权访问此对话”并报错的反馈，尚未验证成功领养，原因未确定。当前请优先使用 PNG；预览页截图不代表领养流程可用。
+Pets 工具生成的 [MOSS 分享链接](https://chatgpt.com/s/sharepet_6aca8ec905a881919a85c47f128383f6)可显示未登录预览，但已观察到登录后提示“无权访问此对话”并报错。尚未验证成功领养，原因未确定；当前请使用 PNG 导入。
 
 ## 效果展示
 
@@ -52,12 +52,11 @@ GIF 从发布 PNG 拆格制作；扫描和方向槽的切换时长仅作展示�
 </details>
 
 <details>
-<summary>真实客户端与分享页截图</summary>
+<summary>真实客户端截图</summary>
 
 <img src="assets/screenshots/client-scan.png" alt="客户端低头扫描实机截图" width="320">
-<img src="assets/screenshots/share-page.jpg" alt="MOSS 公开分享页截图" width="640">
 
-客户端图来自使用者实机截图；分享页图仅为未登录预览，于 2026-10-12 以 1440 × 900 视口、100% 缩放采集，未验证领养成功。
+使用者客户端中的低头扫描画面。
 
 </details>
 
@@ -68,7 +67,7 @@ GIF 从发布 PNG 拆格制作；扫描和方向槽的切换时长仅作展示�
 | `MOSS.png` / `release.json` | 成品、版本、校验和与分享链接 |
 | `assets/model/` | Blender 模型，含内嵌贴图 |
 | `assets/official/` | 21 张官方参考原图与来源清单 |
-| `assets/previews/` / `assets/screenshots/` | 11 个 GIF / 2 张真实界面截图 |
+| `assets/previews/` / `assets/screenshots/` | 11 个 GIF / 1 张真实客户端截图 |
 | `config/` / `scripts/` | 动画参数、渲染、合成与校验工具 |
 | `.agents/skills/` | Codex Skill 和详细设计说明 |
 
