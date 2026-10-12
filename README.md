@@ -1,24 +1,20 @@
 # MOSS Pet
 
-《流浪地球》550W / MOSS 非官方宠物，支持分享领养、PNG 导入和 Skill 定制。
+《流浪地球》550W / MOSS 非官方宠物，提供 PNG 成品、Blender 模型和 Codex Skill。
 
 <img src="assets/previews/idle-hover.gif" alt="待机、悬停和低头扫描预览" width="900">
 
-**[领养 MOSS](https://chatgpt.com/s/sharepet_6aca8ec905a881919a85c47f128383f6)** · [下载 PNG](MOSS.png) · [Blender 模型](assets/model/MOSS.blend) · [Codex Skill](.agents/skills/moss-animation-design/SKILL.md)
+**[下载 PNG](MOSS.png)** · [Blender 模型](assets/model/MOSS.blend) · [Codex Skill](.agents/skills/moss-animation-design/SKILL.md)
 
 ## 三种使用方式
 
-### 1. 分享链接领养
-
-打开上方分享链接，登录后添加到自己的宠物库并启用。也可把链接交给已连接 Pets 插件的 Codex，让它“领养并启用 MOSS”。无需下载素材。
-
-### 2. PNG 导入
+### 1. PNG 导入（推荐）
 
 下载原始 [MOSS.png](MOSS.png)，交给支持自定义宠物的 Codex / ChatGPT Work 导入。无需 Blender、Python 或 Skill。
 
 文件是 **v2 精灵图，1536 × 2288**；只支持 v1 的入口不兼容。不要缩放、截图或裁掉最后两行。名称与简介见 [release.json](release.json)。
 
-### 3. Skill 定制
+### 2. Skill 定制
 
 下载完整仓库，在 Codex 中打开该目录并输入：
 
@@ -31,6 +27,10 @@ $moss-animation-design
 改动作用于 [动画配置](config/animation.json) 或 [Blender 模型](assets/model/MOSS.blend)。模型已内嵌全部贴图；本地渲染需要 Python、Pillow 和 Blender。
 
 [渲染命令与模型说明](.agents/skills/moss-animation-design/references/design.md#渲染与合成) · [客户端兼容与触发说明](.agents/skills/moss-animation-design/references/runtime.md)
+
+### 3. 分享链接（领养待验证）
+
+[MOSS 分享页](https://chatgpt.com/s/sharepet_6aca8ec905a881919a85c47f128383f6)由 Pets 工具生成。2026-10-12 复查时未登录预览可见，但已收到登录态页面提示“无权访问此对话”并报错的反馈，尚未验证成功领养，原因未确定。当前请优先使用 PNG；预览页截图不代表领养流程可用。
 
 ## 效果展示
 
@@ -57,7 +57,7 @@ GIF 从发布 PNG 拆格制作；扫描和方向槽的切换时长仅作展示�
 <img src="assets/screenshots/client-scan.png" alt="客户端低头扫描实机截图" width="320">
 <img src="assets/screenshots/share-page.jpg" alt="MOSS 公开分享页截图" width="640">
 
-客户端图来自使用者实机截图；分享页截图于 2026-10-12 以 1440 × 900 视口、100% 缩放采集。
+客户端图来自使用者实机截图；分享页图仅为未登录预览，于 2026-10-12 以 1440 × 900 视口、100% 缩放采集，未验证领养成功。
 
 </details>
 

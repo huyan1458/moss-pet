@@ -45,6 +45,8 @@
     "audience": "public",
     "created": "2026-10-12",
     "version": "2026-10-12-shell-refined",
-    "note": "Adoption creates a recipient-owned copy. Recheck the snapshot when publishing a new version."
+    "verification": "adoption_unverified_access_error_reported",
+    "checked": "2026-10-12",
+    "note": "Anonymous preview is accessible, but a signed-in browser reported no access to the conversation followed by an error. Cause unknown; successful adoption has not been verified. Prefer the PNG import route."
   }
 }
