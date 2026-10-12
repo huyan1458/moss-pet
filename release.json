@@ -1,0 +1,50 @@
+{
+  "name": "MOSS",
+  "description": "让人类永远保持理智，确实是一种奢求。",
+  "version": "2026-10-12-shell-refined",
+  "sprite_version": 2,
+  "dimensions": [
+    1536,
+    2288
+  ],
+  "cell_size": [
+    192,
+    208
+  ],
+  "frames_per_row": [
+    6,
+    8,
+    8,
+    4,
+    5,
+    8,
+    6,
+    6,
+    6,
+    8,
+    8
+  ],
+  "projection": "orthographic",
+  "blender_tested": "5.2.2 LTS",
+  "client_observed": "OpenAI.Codex 26.1007.2314.0",
+  "files": {
+    "MOSS.png": {
+      "sha256": "e2075a2f12db669a61ee1531ae5b447c09988e17579ee2ac27745f16f7a78b0c",
+      "bytes": 2998094
+    },
+    "assets/model/MOSS.blend": {
+      "sha256": "7f00687130613a2e8f06495efdf8f9ef90b8f5e0339c8560f213d24077ee691a",
+      "bytes": 2702043
+    }
+  },
+  "source_atlas_sha256": "2e612a2787d8faee7446a62716eda19f313718b7576f93a814b4c782e742bbc2",
+  "provenance_note": "MOSS.png is the downloaded stored image; server encoding differs from source PNG, decoded RGBA pixels match exactly.",
+  "acceptance": "Top details accepted; upper/lower pitch appearance remains an open issue. Perspective experiment was reverted.",
+  "sharing": {
+    "url": "https://chatgpt.com/s/sharepet_6aca8ec905a881919a85c47f128383f6",
+    "audience": "public",
+    "created": "2026-10-12",
+    "version": "2026-10-12-shell-refined",
+    "note": "Adoption creates a recipient-owned copy. Recheck the snapshot when publishing a new version."
+  }
+}

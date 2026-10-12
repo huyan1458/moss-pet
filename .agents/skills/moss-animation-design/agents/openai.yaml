@@ -1,0 +1,4 @@
+interface:
+  display_name: "MOSS 宠物复现与定制"
+  short_description: "从素材仓库恢复同版本 MOSS，或定制模型与动画并检查实际效果"
+  default_prompt: "使用 $moss-animation-design，按我的目标恢复仓库中的 MOSS，或基于所附模型和素材进行定制。"

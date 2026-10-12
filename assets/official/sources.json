@@ -1,0 +1,219 @@
+{
+  "article": "https://www.gcores.com/articles/162106",
+  "publisher": "电影流浪地球",
+  "published": "2023-02-24",
+  "retrieved": "2026-10-12",
+  "scope": "550W/MOSS section, image entities 170–190; original files, no resizing",
+  "images": [
+    {
+      "file": "01-structure-views.png",
+      "url": "https://image.gcores.com/380df7d5882b0a27dac0adbb19b3066c.png",
+      "article_entity": 170,
+      "caption": "",
+      "width": 4691,
+      "height": 3244,
+      "bytes": 4508715,
+      "sha256": "2d9d5744bfc21f96779ef8c2972d26545e32b49e9e669ff93b6387c6be2d4cdf"
+    },
+    {
+      "file": "02-generation-comparison.png",
+      "url": "https://image.gcores.com/9bca6052c230987e6c6fd28577ccb880.png",
+      "article_entity": 171,
+      "caption": "",
+      "width": 6200,
+      "height": 2929,
+      "bytes": 7608387,
+      "sha256": "385bc34ac05bbf17655bcf62df1f2c5ce41f122fca80f85fdc9fa35c1210dc13"
+    },
+    {
+      "file": "03-optical-details.jpeg",
+      "url": "https://image.gcores.com/753391ff000b23dab941a10908acc986.jpeg",
+      "article_entity": 172,
+      "caption": "",
+      "width": 6166,
+      "height": 2089,
+      "bytes": 2500451,
+      "sha256": "bf16502520f75781a12a69730ff449593e049d70a99249069c2ccd19b8b169ba"
+    },
+    {
+      "file": "04-suspension-rail.jpeg",
+      "url": "https://image.gcores.com/23683b8fb2565b3164d646d049c11e4c.jpeg",
+      "article_entity": 173,
+      "caption": "550W造型设计  优化设计_范一弘",
+      "width": 4687,
+      "height": 4304,
+      "bytes": 2655272,
+      "sha256": "a372a9f0910e560c5bceab096ef8e00adcf92273800f37157644de7ac0c9d51e"
+    },
+    {
+      "file": "05-model-render-01.png",
+      "url": "https://image.gcores.com/c159c6ab796dcd4292f8d65ac1bf6b4f.png",
+      "article_entity": 174,
+      "caption": "",
+      "width": 3500,
+      "height": 4200,
+      "bytes": 7812466,
+      "sha256": "657353701e3a87ea8d58fa030e3acaabff15425989503a56f7cf681ed7ad213e"
+    },
+    {
+      "file": "06-model-render-02.png",
+      "url": "https://image.gcores.com/25ea0aed831b7ae2911e73507fe2f379.png",
+      "article_entity": 175,
+      "caption": "",
+      "width": 3700,
+      "height": 4440,
+      "bytes": 7999420,
+      "sha256": "5209da6d81f81c83af72edc51e86a51d50e219195b07e12eadeec362133c1ca8"
+    },
+    {
+      "file": "07-model-render-03.png",
+      "url": "https://image.gcores.com/2ae013c14c7c0966c92a141b7218bf99.png",
+      "article_entity": 176,
+      "caption": "550W模型渲染  三维_王超龙",
+      "width": 3199,
+      "height": 4210,
+      "bytes": 7808181,
+      "sha256": "e04987b8ce846f1a1ab9c354e627f4e4a20f632261786413ab27b35217a56684"
+    },
+    {
+      "file": "08-generation-details-01.jpg",
+      "url": "https://image.gcores.com/2ebeb88a8def7bdc8fcc8e371dce3911.jpg",
+      "article_entity": 177,
+      "caption": "",
+      "width": 5915,
+      "height": 2506,
+      "bytes": 3801743,
+      "sha256": "353676396ca6791059464a0452e063428266c920f0057ce652ba944bd90d322f"
+    },
+    {
+      "file": "09-generation-details-02.jpg",
+      "url": "https://image.gcores.com/20b6cdb8e403c186d0a624f7ae616e9d.jpg",
+      "article_entity": 178,
+      "caption": "",
+      "width": 4991,
+      "height": 2506,
+      "bytes": 2562466,
+      "sha256": "8f71945759a9d6f6edbd6ad40670fc0dc73603d90fbf95332f760715a9b9e3b2"
+    },
+    {
+      "file": "10-generation-details-03.jpg",
+      "url": "https://image.gcores.com/5a00d979d16a8fe7aebd15a2120fee22.jpg",
+      "article_entity": 179,
+      "caption": "",
+      "width": 3655,
+      "height": 2506,
+      "bytes": 1671361,
+      "sha256": "a328305aed9f411df4acbc361719d0b54387240b483abe2ef5e65da32fea4b4e"
+    },
+    {
+      "file": "11-generation-details-04.jpg",
+      "url": "https://image.gcores.com/6b2d72ec735217be544f4a3ec30354ae.jpg",
+      "article_entity": 180,
+      "caption": "550W与初代MOSS设计对比",
+      "width": 3655,
+      "height": 2506,
+      "bytes": 2614755,
+      "sha256": "df8022f7a58736fb8b3ac9df993d4b7eba73c63355045973cab4512a0a213f75"
+    },
+    {
+      "file": "12-film-still-01.jpg",
+      "url": "https://image.gcores.com/03b768f5651bd16f881e7a65eb3e74ad.JPG",
+      "article_entity": 181,
+      "caption": "",
+      "width": 3008,
+      "height": 2000,
+      "bytes": 2482898,
+      "sha256": "3fb7e54c131365cbd5685104956c5956d52c3a0c37d11913d63ae50f21e6be8d"
+    },
+    {
+      "file": "13-film-still-02.jpg",
+      "url": "https://image.gcores.com/74822502b96224c00e622c1525d98861.jpg",
+      "article_entity": 182,
+      "caption": "",
+      "width": 1213,
+      "height": 838,
+      "bytes": 558234,
+      "sha256": "8c9440f9105aa41da33a6756099641019b865626bbd495ecb84b20828c6f526d"
+    },
+    {
+      "file": "14-film-still-03.jpg",
+      "url": "https://image.gcores.com/e7e749e9fd8a8da4df7d3077f2e81f63.jpg",
+      "article_entity": 183,
+      "caption": "550W镜屋内剧照  特殊制作_STUDIO MDI",
+      "width": 1237,
+      "height": 772,
+      "bytes": 513122,
+      "sha256": "c204c65bdc0c7e23496cdaac2749bd686e9c4071f514a99a1037bbbf3c67c60a"
+    },
+    {
+      "file": "15-film-still-04.jpg",
+      "url": "https://image.gcores.com/8aed3cbf55d01d228e1d59945a27d4c5.JPG",
+      "article_entity": 184,
+      "caption": "",
+      "width": 4320,
+      "height": 2880,
+      "bytes": 4969043,
+      "sha256": "72c0581bf0ce603efa3da2d402f334d24d92e74dce9df3b49d3652aec482c5a7"
+    },
+    {
+      "file": "16-film-still-05.jpg",
+      "url": "https://image.gcores.com/e762e623abc92b30e59eead1b2c7de70.JPG",
+      "article_entity": 185,
+      "caption": "550W研发剧照",
+      "width": 4320,
+      "height": 2880,
+      "bytes": 4423748,
+      "sha256": "2d0e0abeb8ee4c721aab1aa92c71fbaec85166ba9cc41dd577325a20527e438f"
+    },
+    {
+      "file": "17-prop-construction-01.jpg",
+      "url": "https://image.gcores.com/41cdf2bd5929c597f50b8047c34b3006.JPG",
+      "article_entity": 186,
+      "caption": "",
+      "width": 4080,
+      "height": 2441,
+      "bytes": 2207689,
+      "sha256": "c3f2dbc2306c935416964fd19b578bf9621f4f42a7bca4b6ee7beca247a09199"
+    },
+    {
+      "file": "18-prop-construction-02.png",
+      "url": "https://image.gcores.com/35df06b03c4ffa559f7e20799ae7e7d8.png",
+      "article_entity": 187,
+      "caption": "550W框架&水下设备箱实物照片  特殊制作_STUDIO MDI",
+      "width": 2853,
+      "height": 2033,
+      "bytes": 6442939,
+      "sha256": "6b03fb592d2dd9e2ec7b8be35a00bbc61cb4138910337c3e24ed50d38f68466f"
+    },
+    {
+      "file": "19-prop-construction-03.png",
+      "url": "https://image.gcores.com/b19820019c8486702dfeeb2eac330117.png",
+      "article_entity": 188,
+      "caption": "",
+      "width": 2940,
+      "height": 1837,
+      "bytes": 7506707,
+      "sha256": "304b1260ae2b6b1629fc2683753580fc627aef0da44ea380c5692c979ab820c3"
+    },
+    {
+      "file": "20-prop-construction-04.png",
+      "url": "https://image.gcores.com/68ff1a7fb0aaae3b2ce82821757815fc.png",
+      "article_entity": 189,
+      "caption": "550W幕后制作  特殊制作_STUDIO MDI",
+      "width": 2160,
+      "height": 1979,
+      "bytes": 7609882,
+      "sha256": "bcd2b39f82d46cae9ac6670142b26871e0065525486ff5b9d46b2c7fced2647f"
+    },
+    {
+      "file": "21-graphic-labels.jpg",
+      "url": "https://image.gcores.com/ff681c04e2a3682b06611f49d50b624e.jpg",
+      "article_entity": 190,
+      "caption": "550W平面标识设计  设计_刘伟/孙德涵",
+      "width": 4567,
+      "height": 3909,
+      "bytes": 1416603,
+      "sha256": "cb7dd8b198d0a1a0d3cee29ebf2506d6d603b2ecc439e696141c8ca3ce890f9d"
+    }
+  ]
+}

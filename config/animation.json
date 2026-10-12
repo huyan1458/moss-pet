@@ -1,0 +1,741 @@
+{
+  "schema": 1,
+  "angle_unit": "degrees",
+  "timing_note": "Preview timings reflect the observed client; editing them does not change the app playback speed. Look durations are preview-only.",
+  "rows": [
+    {
+      "state": "idle",
+      "durations_ms": [
+        1680,
+        660,
+        660,
+        840,
+        840,
+        1920
+      ],
+      "poses": [
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 0,
+          "light": 0,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 12,
+          "pitch": 0,
+          "fold": 0,
+          "light": 1,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 24,
+          "pitch": 0,
+          "fold": 0,
+          "light": 0,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 24,
+          "pitch": 0,
+          "fold": 0,
+          "light": 1,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 12,
+          "pitch": 0,
+          "fold": 0,
+          "light": 0,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 0,
+          "light": 1,
+          "scan": 0,
+          "warning": false
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "durations_ms": [
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        220
+      ],
+      "poses": [
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 130.11661612712138,
+          "light": 1,
+          "scan": 0,
+          "warning": true
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 130.11661612712138,
+          "light": 1,
+          "scan": 0,
+          "warning": true
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 130.11661612712138,
+          "light": 1,
+          "scan": 0,
+          "warning": true
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 130.11661612712138,
+          "light": 1,
+          "scan": 0,
+          "warning": true
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 130.11661612712138,
+          "light": 1,
+          "scan": 0,
+          "warning": true
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 130.11661612712138,
+          "light": 1,
+          "scan": 0,
+          "warning": true
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 130.11661612712138,
+          "light": 1,
+          "scan": 0,
+          "warning": true
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 130.11661612712138,
+          "light": 1,
+          "scan": 0,
+          "warning": true
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "durations_ms": [
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        120,
+        220
+      ],
+      "poses": [
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 130.11661612712138,
+          "light": 1,
+          "scan": 0,
+          "warning": true
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 130.11661612712138,
+          "light": 1,
+          "scan": 0,
+          "warning": true
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 130.11661612712138,
+          "light": 1,
+          "scan": 0,
+          "warning": true
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 130.11661612712138,
+          "light": 1,
+          "scan": 0,
+          "warning": true
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 130.11661612712138,
+          "light": 1,
+          "scan": 0,
+          "warning": true
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 130.11661612712138,
+          "light": 1,
+          "scan": 0,
+          "warning": true
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 130.11661612712138,
+          "light": 1,
+          "scan": 0,
+          "warning": true
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 130.11661612712138,
+          "light": 1,
+          "scan": 0,
+          "warning": true
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "durations_ms": [
+        140,
+        140,
+        140,
+        280
+      ],
+      "poses": [
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 0,
+          "light": 1,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 8,
+          "pitch": 0,
+          "fold": 0,
+          "light": 0.3,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 8,
+          "pitch": 0,
+          "fold": 0,
+          "light": 1,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 0,
+          "light": 1,
+          "scan": 0,
+          "warning": false
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "durations_ms": [
+        140,
+        140,
+        140,
+        140,
+        280
+      ],
+      "poses": [
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 0,
+          "light": 1.0,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": -10,
+          "light": 0.0,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 0,
+          "light": 1.0,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 10,
+          "light": 0.0,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 0,
+          "light": 1.0,
+          "scan": 0,
+          "warning": false
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "durations_ms": [
+        140,
+        140,
+        140,
+        140,
+        140,
+        140,
+        140,
+        240
+      ],
+      "poses": [
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 0,
+          "light": 1,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 0,
+          "light": 0,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 0,
+          "light": 1,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 0,
+          "light": 0,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 0,
+          "light": 1,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 0,
+          "light": 0,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 0,
+          "light": 0.2,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 0,
+          "light": 0.2,
+          "scan": 0,
+          "warning": false
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "durations_ms": [
+        150,
+        150,
+        150,
+        150,
+        150,
+        260
+      ],
+      "poses": [
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 0,
+          "light": 1,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 0,
+          "light": 1,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 0,
+          "light": 0.15,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 0,
+          "light": 0.15,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 0,
+          "light": 1,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 0,
+          "light": 1,
+          "scan": 0,
+          "warning": false
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "durations_ms": [
+        120,
+        120,
+        120,
+        120,
+        120,
+        220
+      ],
+      "poses": [
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 0,
+          "light": 1,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 0,
+          "light": 0.2,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 0,
+          "light": 1,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 0,
+          "light": 0.2,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 0,
+          "light": 1,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 0,
+          "light": 0.2,
+          "scan": 0,
+          "warning": false
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "durations_ms": [
+        150,
+        150,
+        150,
+        150,
+        150,
+        280
+      ],
+      "poses": [
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 0,
+          "light": 1,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 0,
+          "light": 0.6,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 0,
+          "light": 0.15,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 0,
+          "light": 0.15,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 0,
+          "light": 0.6,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 0,
+          "pitch": 0,
+          "fold": 0,
+          "light": 1,
+          "scan": 0,
+          "warning": false
+        }
+      ]
+    },
+    {
+      "state": "look-000-157.5",
+      "durations_ms": [
+        300,
+        300,
+        300,
+        300,
+        300,
+        300,
+        300,
+        300
+      ],
+      "poses": [
+        {
+          "yaw": 0.0,
+          "pitch": -12.0,
+          "fold": 0,
+          "light": 1,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 9.184402376762154,
+          "pitch": -11.08655439013544,
+          "fold": 0,
+          "light": 1,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 16.970562748477143,
+          "pitch": -8.485281374238571,
+          "fold": 0,
+          "light": 1,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 22.17310878027088,
+          "pitch": -4.592201188381078,
+          "fold": 0,
+          "light": 1,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 24.0,
+          "pitch": -7.347880794884119e-16,
+          "fold": 0,
+          "light": 1,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": 0,
+          "pitch": 30,
+          "fold": 0,
+          "light": 1,
+          "scan": 0.24,
+          "warning": false
+        },
+        {
+          "yaw": 0,
+          "pitch": 30,
+          "fold": 0,
+          "light": 1,
+          "scan": 0.24,
+          "warning": false
+        },
+        {
+          "yaw": 0,
+          "pitch": 30,
+          "fold": 0,
+          "light": 1,
+          "scan": 0.24,
+          "warning": false
+        }
+      ]
+    },
+    {
+      "state": "look-180-337.5",
+      "durations_ms": [
+        300,
+        300,
+        300,
+        300,
+        300,
+        300,
+        300,
+        300
+      ],
+      "poses": [
+        {
+          "yaw": 0,
+          "pitch": 30,
+          "fold": 0,
+          "light": 1,
+          "scan": 0.24,
+          "warning": false
+        },
+        {
+          "yaw": 0,
+          "pitch": 30,
+          "fold": 0,
+          "light": 1,
+          "scan": 0.24,
+          "warning": false
+        },
+        {
+          "yaw": 0,
+          "pitch": 30,
+          "fold": 0,
+          "light": 1,
+          "scan": 0.24,
+          "warning": false
+        },
+        {
+          "yaw": 0,
+          "pitch": 30,
+          "fold": 0,
+          "light": 1,
+          "scan": 0.24,
+          "warning": false
+        },
+        {
+          "yaw": -24.0,
+          "pitch": 0,
+          "fold": 0,
+          "light": 1,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": -22.17310878027088,
+          "pitch": -4.59220118838108,
+          "fold": 0,
+          "light": 1,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": -16.970562748477143,
+          "pitch": -8.485281374238568,
+          "fold": 0,
+          "light": 1,
+          "scan": 0,
+          "warning": false
+        },
+        {
+          "yaw": -9.184402376762149,
+          "pitch": -11.086554390135442,
+          "fold": 0,
+          "light": 1,
+          "scan": 0,
+          "warning": false
+        }
+      ]
+    }
+  ]
+}
