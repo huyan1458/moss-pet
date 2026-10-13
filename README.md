@@ -66,7 +66,7 @@ GIF 从发布 PNG 拆格制作；扫描和方向槽的切换时长仅作展示�
 | --- | --- |
 | `MOSS.png` / `release.json` | 成品、版本、校验和与分享链接 |
 | `assets/model/` | Blender 模型，含内嵌贴图 |
-| `assets/official/` | 21 张官方参考原图与来源清单 |
+| `assets/official/sources.json` | 官方参考的来源链接、署名与历史文件记录，不附原图 |
 | `assets/previews/` / `assets/screenshots/` | 11 个 GIF / 1 张真实客户端截图 |
 | `config/` / `scripts/` | 动画参数、渲染、合成与校验工具 |
 | `.agents/skills/` | Codex Skill 和详细设计说明 |
@@ -75,7 +75,7 @@ GIF 从发布 PNG 拆格制作；扫描和方向槽的切换时长仅作展示�
 
 ## 来源与许可
 
-官方参考来自“电影流浪地球”发布的[机核美术设定“UEG”篇](https://www.gcores.com/articles/162106)，原图链接与署名见 [sources.json](assets/official/sources.json)。
+官方参考来自“电影流浪地球”发布的[机核美术设定“UEG”篇](https://www.gcores.com/articles/162106)，来源链接与署名见 [sources.json](assets/official/sources.json)。当前版本不附官方原图；清单中的文件名和校验和仅为历史来源记录。
 
 原创脚本、文档和 Skill 采用 [MIT](LICENSE)；角色 PNG、模型、官方美术及展示素材不纳入 MIT，详见 [NOTICE.md](NOTICE.md)。
 
