@@ -78,3 +78,7 @@ GIF 从发布 PNG 拆格制作；扫描和方向槽的切换时长仅作展示�
 官方参考来自“电影流浪地球”发布的[机核美术设定“UEG”篇](https://www.gcores.com/articles/162106)，原图链接与署名见 [sources.json](assets/official/sources.json)。
 
 原创脚本、文档和 Skill 采用 [MIT](LICENSE)；角色 PNG、模型、官方美术及展示素材不纳入 MIT，详见 [NOTICE.md](NOTICE.md)。
+
+## 社区链接
+
+[LINUX DO](https://linux.do/) — 真诚、友善、团结、专业的技术社区。
